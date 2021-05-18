@@ -4,7 +4,8 @@ import crypt from "./../Images/crypt.png"
 const Main = () => {
     return (
         <div>
-        <div className="d-flex m-5">
+        <h3 className="text-center" style={{color:"#6c757d"}}>Best Price to trade</h3>
+        <div className="d-flex m-5 mt-2 mb-1">
             <div className="mt-0 m-5 text-center">
                 <h1 className="mt-3" style={{color: "#5dc7c2",fontSize:"300%"}}>0.16%</h1>
                 <h5 className="text-center" style={{color:"#6c757d"}}>5 mins</h5>

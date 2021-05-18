@@ -9,7 +9,7 @@ import crypt from "./../Images/crypt3.png"
 const table = () => {
     return (
         <div className="text-center mt-0 m-4" style={{width: "89%"}}>
-            <Table striped bordered hover variant="dark" responsive="lg" className="table table-lg m-5 mr-5">
+            <Table striped bordered hover variant="dark" responsive="lg" className="table table-lg m-5 mt-0 mr-5">
                 <thead>
                     <tr>
                     <th>#</th>
@@ -23,7 +23,7 @@ const table = () => {
                 <tbody>
                     <tr>
                     <td>1</td>
-                    <td>Mark</td>
+                    <td>WazirX</td>
                     <td>₹ 40,98,829</td>
                     <td>₹ 40,83,683 / ₹ 40,98,829</td>
                     <td style={{color:"red"}}>-0.16 %</td>
@@ -31,7 +31,7 @@ const table = () => {
                     </tr>
                     <tr>
                     <td>2</td>
-                    <td>Mark</td>
+                    <td>Bitbns</td>
                     <td>₹ 40,59,179</td>
                     <td>₹ 40,43,337 / ₹ 40,50,246</td>
                     <td style={{color:"red"}}>-1.13 %</td>
@@ -39,7 +39,7 @@ const table = () => {
                     </tr>
                     <tr>
                     <td>3</td>
-                    <td>Mark</td>
+                    <td>Giotus</td>
                     <td>₹ 41,76,970</td>
                     <td>₹ 41,36,800 / ₹ 41,76,990</td>
                     <td style={{color:"#5dc7c2"}}>1.74 %</td>
@@ -47,7 +47,7 @@ const table = () => {
                     </tr>
                     <tr>
                     <td>4</td>
-                    <td>Mark</td>
+                    <td>Colodax</td>
                     <td>₹ 40,63,856</td>
                     <td>₹ 40,45,614 / ₹ 40,86,275</td>
                     <td style={{color:"red"}}>-1.02 %</td>
@@ -55,7 +55,7 @@ const table = () => {
                     </tr>
                     <tr>
                     <td>5</td>
-                    <td>Mark</td>
+                    <td>ZebPay</td>
                     <td>₹ 40,95,000</td>
                     <td>₹ 40,95,000 / ₹ 40,92,619</td>
                     <td style={{color:"red"}}>-0.26 %</td>
@@ -63,7 +63,7 @@ const table = () => {
                     </tr>
                     <tr>
                     <td>6</td>
-                    <td>Mark</td>
+                    <td>CoinDCX</td>
                     <td>₹ 41,39,437</td>
                     <td>₹ 41,33,308 / ₹ 41,41,975</td>
                     <td style={{color:"#5dc7c2"}}>0.83 %</td>
