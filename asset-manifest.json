@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/QuadB-Task/static/css/main.e394bc49.chunk.css",
+    "main.js": "/QuadB-Task/static/js/main.e83323be.chunk.js",
+    "main.js.map": "/QuadB-Task/static/js/main.e83323be.chunk.js.map",
+    "runtime-main.js": "/QuadB-Task/static/js/runtime-main.fc9e1abc.js",
+    "runtime-main.js.map": "/QuadB-Task/static/js/runtime-main.fc9e1abc.js.map",
+    "static/css/2.800be05e.chunk.css": "/QuadB-Task/static/css/2.800be05e.chunk.css",
+    "static/js/2.a2373894.chunk.js": "/QuadB-Task/static/js/2.a2373894.chunk.js",
+    "static/js/2.a2373894.chunk.js.map": "/QuadB-Task/static/js/2.a2373894.chunk.js.map",
+    "static/js/3.671c081d.chunk.js": "/QuadB-Task/static/js/3.671c081d.chunk.js",
+    "static/js/3.671c081d.chunk.js.map": "/QuadB-Task/static/js/3.671c081d.chunk.js.map",
+    "index.html": "/QuadB-Task/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/QuadB-Task/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.e394bc49.chunk.css.map": "/QuadB-Task/static/css/main.e394bc49.chunk.css.map",
+    "static/js/2.a2373894.chunk.js.LICENSE.txt": "/QuadB-Task/static/js/2.a2373894.chunk.js.LICENSE.txt",
+    "static/media/crypt.03d77d1e.png": "/QuadB-Task/static/media/crypt.03d77d1e.png",
+    "static/media/crypt3.2429c241.png": "/QuadB-Task/static/media/crypt3.2429c241.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc9e1abc.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.a2373894.chunk.js",
+    "static/css/main.e394bc49.chunk.css",
+    "static/js/main.e83323be.chunk.js"
+  ]
+}
